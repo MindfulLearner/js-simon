@@ -1,0 +1,11 @@
+/* CSS ESSERES */
+
+
+* {
+    border: 1px dashed white;
+}
+
+body { 
+    background: black;
+    color: white;
+}
